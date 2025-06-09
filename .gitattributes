@@ -1,2 +1,6 @@
 *.odt filter=lfs diff=lfs merge=lfs -text
 *.avif filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+001+First+Amendment+Concrete/005/First[[:space:]]amendment[[:space:]]concrete[[:space:]]-[[:space:]]Cary,[[:space:]]NC[[:space:]]-[[:space:]]Nextdoor_files/5b21c24a0afa35aa5abeedb3f5c62c19 filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.svg filter=lfs diff=lfs merge=lfs -text

@@ -25,6 +25,8 @@ Brought to my attention on June 6th by post to social media on June 5th.  [This]
   * [Tax Bill Search 2](https://bttaxpayerportal.com/ITSPublicCE/)
     * Actual search is "846 HWY 70 BETTIE BEAUFORT"
     * [Property Record](https://bttaxpayerportal.com/itspublicce/AppraisalCard.aspx?prid=3271119)
+    * [Archived](https://archive.ph/RUicQ)
+    * [Saved](003--parcel-1.pdf)
     * Billing Address:  307 Misty Grove Circle Morrisville, NC 27560
     * Owner:  Paul Dianna Golden Etux Nelson
     * **Search Billing Address and Names**
@@ -50,16 +52,66 @@ Brought to my attention on June 6th by post to social media on June 5th.  [This]
 * vscrogginsjohnson@morrisvillenc.gov council member 
 * srao@morrisvillenc.gov council member
 
-### Social Media Posts
+### Social Media Posts For Event
 
-* [Celebrate Pride THIS Friday](https://www.instagram.com/p/DKZqgonN4TE/)
+* [Insta:Celebrate Pride THIS Friday](https://www.instagram.com/p/DKZqgonN4TE/)
+* [Insta:June is packed](https://www.instagram.com/reel/DKPs6_2xopP/)
+* [FB:Celebrate Pride this Friday](https://www.facebook.com/story.php?story_fbid=1109663417852551&id=100064267106463&mibextid=wwXIfr)
+* [FB:June Events](https://www.facebook.com/story.php?story_fbid=1137738008397538&id=100064840476543&mibextid=wwXIfr)
 
-## Odd notes
+### Community Awareness Posts
+
+* [IG Threads](https://www.threads.com/@aeblische/post/DKhz5ofpy6u?xmt=AQF06NOw9ixPg3_lb9QeExyIRDCke7bsgloyrUxKxjuprg)
+* Queer Exchange:  REDACTED
+
+### Vendor Application guidelines:
+
+The Morrisville Parks, Recreateion, and Cultural Resources Department possess sole and final decision-making authority for determining the extent to which the products requested to be handed out and/or sold by an applicant meet hese guidelines and reserves the right to refuse acceptance.
+
+Applications are reviewed according to the following procedures and guidelines:
+
+In alignment with our values of diversity and inclusion, we kindly request that all vendors interested in participating in PRCR's Music in the Park Celebrates affirm their support of the LGBTQ+ community and its values.  The affirmation may include, but is not limited to:
+
+* Self identification as a member or ally of the LGBTQ+ community.
+(TRUNCATED)
+
+### Stuff
+
+Email leads to Arielle Chatha, Leslie Haney
+
+Leslie opposed last year.
+
+Arielle Chatha is ncid:BY529110 and [LI](https://www.linkedin.com/in/arielle-chatha/)
+
+Leslie Haney is [LI](https://www.linkedin.com/in/leslie-haney-627289263/) probably ncid:EH305185
+
+
+## Second Pass
+
+### Mailing address
+
+* Mailing address has typo.  Actual address is 307 Misty Groves Circle
+* Paul Nelson lives there:  Votes in R primaries since 2000
+* Dianna Nelson lives there:  Votes in R primaries since 2000
+* Also Chyna (Does not vote primaries)
+* Also Timothy (Does not vote primaries).  
+
+## Third Pass
+
+* [NextDoor: First Amendment Concrete](https://nextdoor.com/pages/first-amendment-concrete-cary-nc/)
+  * ![Picture](004-first-amendment-concrete--nextdoor.jpeg)
+  * 1524 Jenks Carpenter Road/Cary, NC 27519
+  * [Saved](005)
+* [Eventeny: First Amendment Concrete](https://www.eventeny.com/company/?c=217186)
+
+# Odd notes
 
 * Supposedly decision was made by Town Manager, and Attorney retained by the town
   * [Morrisville Administration](https://www.morrisvillenc.gov/government/departments-services/administration)
     * Brandon Zuidema
       * 919.463.6154
       * bzuidema@morrisvillenc.gov
+    * No attorney listed
+  * Google search for Morrisville Attorney found:  [Frank Gray of Jordan Price](https://jordanprice.com/attorney/frank-gray/)
    
-   
+* Timothy Paul resembles someone seen in 1stAmendmentConcrete pictures   

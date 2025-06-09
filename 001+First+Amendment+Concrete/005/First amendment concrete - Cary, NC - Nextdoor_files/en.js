@@ -1,0 +1,1 @@
+/*eslint-disable*/window._i18n={messages:JSON.parse("{}")};
